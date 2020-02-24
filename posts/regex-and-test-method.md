@@ -1,7 +1,6 @@
 ---
 title: 'JavaScript Regular Expressions and the Test() Method'
 tags: ["javascript"]
-published: true
 date: '2019-01-06'
 ---
 
