@@ -44,8 +44,8 @@ const BlogPost = (props) => {
               {getTechTags(tags)}
             </div>
             <br />
-            <small><i>Published on </i> {post.frontmatter.date}</small>
-            <div dangerouslySetInnerHTML={{ __html: post.html }} />
+            <small><i>Published on </i> {post.frontmatter.date}</small><br /><br />
+            <div dangerouslySetInnerHTML={{ __html: post.html }} /><br /><br />
             <CustomShareBlock title={post.frontmatter.title} siteName={siteName} url={url} />
           </div>
         </div>
