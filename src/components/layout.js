@@ -51,7 +51,7 @@ const Layout = ({ children }) => {
             <main className="p-4">{children}</main>
             <footer className="text-center">
               <hr/>
-              <p className="d-inline">Copyright © {new Date().getFullYear()}.</p>
+              <p className="d-inline">Copyright © {new Date().getFullYear()}. <a href="mailto:contact@phbomfim.dev">Contact me</a></p>
             </footer>
           </div>
         </>
