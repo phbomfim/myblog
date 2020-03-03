@@ -2,12 +2,12 @@
 
 module.exports = {
   url: "https://phbomfim.dev",
-  title: "Developer Diary",
+  title: "Developer Blog",
   tagline: "Autodidact developer and sometimes writer",
   copyright: "© 2020 ",
   author: {
     name: "Paulo Bomfim",
-    bio: "Self-taught web developer and whisky aficionado",
+    bio: "Student and Programmer",
     contacts: {
       linkedin: "https://www.linkedin.com/in/phbomfim/",
       github: "https://github.com/phbomfim/",
