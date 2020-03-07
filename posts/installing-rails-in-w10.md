@@ -1,7 +1,7 @@
 ---
 title: Installing Rails in Windows 10
 date: "2019-09-23"
-tags: ["ruby"]
+tags: ["rails", "windows","postgresql"]
 published: true
 description: "How to configure Rails and PostgreSQL in Linux Workspace (Windows 10)"
 ---

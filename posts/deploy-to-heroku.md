@@ -1,7 +1,7 @@
 ---
 title: Deploying GitHub application in Heroku
 date: "2019-09-24"
-tags: ["git"]
+tags: ["github", "git", "heroku"]
 published: true
 description: "Deploying nps-calculator application in Heroku"
 ---

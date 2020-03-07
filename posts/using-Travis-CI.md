@@ -2,7 +2,7 @@
 title: Using Travis CI
 date: "2019-09-25T10:44:43.000Z"
 description: "Using Travis CI "
-tags: ["git","ruby"]
+tags: ["travis","rails","postgresql"]
 published: true
 ---
 

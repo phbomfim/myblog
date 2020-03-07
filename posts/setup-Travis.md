@@ -1,7 +1,7 @@
 ---
 title: Setup Travis
 date: "2019-09-27"
-tags: ["javascript","ruby"]
+tags: ["travis","rails"]
 published: true
 description: ""
 ---

@@ -1,9 +1,8 @@
 ---
-tags:
-  - git
-published: true
-date: '2019-10-04'
 title: SSL in GitLab Page
+date: '2019-10-04'
+tags: ["gitlab"]
+published: true
 ---
 ### SSL Certifcate
 
