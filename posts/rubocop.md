@@ -1,7 +1,7 @@
 ---
 title: Install and configure Rubocop
 date: "2019-09-26"
-tags: ["ruby"]
+tags: ["rails","travis"]
 published: true
 description: "Install, configure and fix any problems by Rubocop analysis"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Basic config to new machines with Windows 10 operational system
 date: "2019-09-02"
-tags: ["vscode","git"]
+tags: ["windows", "linux"]
 published: true
 description: "Install any utilities"
 ---

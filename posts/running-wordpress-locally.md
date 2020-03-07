@@ -1,7 +1,7 @@
 ---
 title: Running WordPress locally
 date: "2019-09-02"
-tags: ["html", "php"]
+tags: ["wordpress"]
 published: true
 description: "First acess to WordPress locally"
 ---

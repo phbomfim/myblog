@@ -1,7 +1,7 @@
 ---
 title: Watching Go Rails videos
 date: "2019-09-20"
-tags: ["ruby"]
+tags: ["rails"]
 published: true
 description: "I took the day to watch a few videos and learn about rails"
 ---

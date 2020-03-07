@@ -1,7 +1,7 @@
 ---
 title: SSL in GitLab Page
 date: "2019-10-04"
-tags: ["git"]
+tags: ["gitlab"]
 published: true
 description: ""
 ---

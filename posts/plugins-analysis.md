@@ -1,7 +1,7 @@
 ---
 title: Plugin analysis
 date: "2019-09-09"
-tags: ["html"]
+tags: ["wordpress"]
 ---
 
 ## Salentodamore Project
