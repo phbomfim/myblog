@@ -1,6 +1,6 @@
 ---
 title: Learning MongoDB
-date: "2021-06-29"
+date: "2021-06-30"
 tags: ["mongodb","linux"]
 published: true
 description: ""
